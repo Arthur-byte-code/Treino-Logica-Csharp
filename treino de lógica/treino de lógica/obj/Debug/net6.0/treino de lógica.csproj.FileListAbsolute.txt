@@ -1,0 +1,30 @@
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.csproj.AssemblyReference.cache
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.AssemblyInfoInputs.cache
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.AssemblyInfo.cs
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.csproj.CoreCompileInputs.cache
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.exe
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.deps.json
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.runtimeconfig.json
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.pdb
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\refint\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.pdb
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.genruntimeconfig.cache
+C:\Users\Raul Diego\Desktop\treino poo\treino de lógica\treino de lógica\obj\Debug\net6.0\ref\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.exe
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.deps.json
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.runtimeconfig.json
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\bin\Debug\net6.0\treino de lógica.pdb
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.csproj.AssemblyReference.cache
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.AssemblyInfoInputs.cache
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.AssemblyInfo.cs
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.csproj.CoreCompileInputs.cache
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\refint\treino de lógica.dll
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.pdb
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\treino de lógica.genruntimeconfig.cache
+C:\Users\Raul Diego\Desktop\treino de lógica\treino de lógica\treino de lógica\obj\Debug\net6.0\ref\treino de lógica.dll
