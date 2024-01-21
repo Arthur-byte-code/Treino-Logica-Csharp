@@ -1,3 +1,4 @@
 Este sistema contém seis algoritmos que realizam diversas atividades, incluindo soma e comparação de números, identificação do maior e menor valor em uma lista, ordenação crescente de uma lista, adivinhação de um número entre 1 e 6 com três tentativas, identificação do número ausente em uma sequência crescente e contagem de caracteres em uma string.
 # Menu da aplicação de console:
 ![6](https://github.com/Arthur-byte-code/Treino-Logica-Csharp/assets/152222113/6c694890-2b39-44ca-aacd-41b9eded2a08)
+This system contains six algorithms that perform various activities, including addition and comparison of numbers, identification of the largest and smallest values in a list, ascending sorting of a list, guessing a number between 1 and 6 with three attempts, identification of the missing number in an ascending sequence, and counting characters in a string.
